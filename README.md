@@ -1,2 +1,2 @@
-# Code_Alpha-Project
+# Hnagman_Python-Project
 Hangman Gaming
