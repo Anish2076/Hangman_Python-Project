@@ -1,2 +1,2 @@
-# Hnagman_Python-Project
+# Hanagman_Python-Project
 Hangman Gaming
